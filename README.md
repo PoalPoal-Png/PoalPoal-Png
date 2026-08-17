@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Pick
+# 👋 Hey, I'm Vexo
 
 > Python developer building Discord bots, automation, websites, and random projects.
 
